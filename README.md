@@ -1,4 +1,4 @@
 # bootstrap-ornek-site
-nejdetle yaptığımız örnek site | webstorm
+Örnek site | webstorm
 
 [demo](https://demo.nejdetkadirbektas.com/sevval-bootstrap/)
