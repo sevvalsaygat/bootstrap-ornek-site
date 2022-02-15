@@ -1,4 +1,4 @@
 # bootstrap-ornek-site
-Örnek site | webstorm
+Örnek Site | webstorm
 
 [demo](https://demo.nejdetkadirbektas.com/sevval-bootstrap/)
